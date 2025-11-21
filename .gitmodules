@@ -1,0 +1,3 @@
+[submodule "AgentEvolver"]
+	path = AgentEvolver
+	url = https://github.com/modelscope/AgentEvolver.git
