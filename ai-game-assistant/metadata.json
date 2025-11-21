@@ -1,0 +1,5 @@
+{
+  "name": "AI Game Assistant",
+  "description": "A web UI for an AI-powered game emulator assistant. This conceptual application allows users to set goals for an AI, which then simulates playing a Game Boy or Game Boy Advance game by analyzing the game screen and determining the next best move using the Gemini API.",
+  "requestFramePermissions": []
+}

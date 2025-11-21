@@ -1,0 +1,30 @@
+2025-09-18 05:02:27,434 - server - INFO - Starting AI API initialization...
+2025-09-18 05:02:27,435 - server - INFO - [INFO] Gemini API key not found in environment variables
+2025-09-18 05:02:27,435 - server - INFO - [INFO] OpenRouter API key not found in environment variables
+2025-09-18 05:02:27,435 - server - INFO - [INFO] NVIDIA API key not found in environment variables
+2025-09-18 05:02:27,435 - server - INFO - [INFO] OpenAI API key not found in environment variables
+2025-09-18 05:02:27,435 - server - INFO - AI API initialization completed. 0 APIs ready out of 4 available.
+2025-09-18 05:02:27,435 - server - WARNING - [WARNING] No AI APIs were initialized. The server will run but AI features will be limited.
+2025-09-18 05:02:27,435 - server - INFO - To enable AI features, set the appropriate environment variables:
+2025-09-18 05:02:27,435 - server - INFO -   - GEMINI_API_KEY
+2025-09-18 05:02:27,435 - server - INFO -   - OPENROUTER_API_KEY
+2025-09-18 05:02:27,435 - server - INFO -   - NVIDIA_API_KEY (optional: NVIDIA_MODEL)
+2025-09-18 05:02:27,435 - server - INFO -   - OPENAI_API_KEY (optional: OPENAI_ENDPOINT)
+2025-09-18 05:02:37,386 - server - INFO - Starting AI API initialization...
+2025-09-18 05:02:37,386 - server - INFO - [SUCCESS] Gemini API initialized successfully
+2025-09-18 05:02:37,386 - server - INFO - [INFO] OpenRouter API key not found in environment variables
+2025-09-18 05:02:37,386 - server - INFO - [INFO] NVIDIA API key not found in environment variables
+2025-09-18 05:02:37,386 - server - INFO - [INFO] OpenAI API key not found in environment variables
+2025-09-18 05:02:37,386 - server - INFO - AI API initialization completed. 1 APIs ready out of 4 available.
+2025-09-18 05:03:24,797 - server - INFO - Starting AI API initialization...
+2025-09-18 05:03:24,797 - server - INFO - [INFO] Gemini API key not found in environment variables
+2025-09-18 05:03:24,797 - server - INFO - [INFO] OpenRouter API key not found in environment variables
+2025-09-18 05:03:24,797 - server - INFO - [INFO] NVIDIA API key not found in environment variables
+2025-09-18 05:03:24,797 - server - INFO - [INFO] OpenAI API key not found in environment variables
+2025-09-18 05:03:24,797 - server - INFO - AI API initialization completed. 0 APIs ready out of 4 available.
+2025-09-18 05:03:24,797 - server - WARNING - [WARNING] No AI APIs were initialized. The server will run but AI features will be limited.
+2025-09-18 05:03:24,797 - server - INFO - To enable AI features, set the appropriate environment variables:
+2025-09-18 05:03:24,797 - server - INFO -   - GEMINI_API_KEY
+2025-09-18 05:03:24,797 - server - INFO -   - OPENROUTER_API_KEY
+2025-09-18 05:03:24,797 - server - INFO -   - NVIDIA_API_KEY (optional: NVIDIA_MODEL)
+2025-09-18 05:03:24,797 - server - INFO -   - OPENAI_API_KEY (optional: OPENAI_ENDPOINT)
